@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/searchRepository/static/js/main.22184f4d.js",
+    "static/media/main.less": "/searchRepository/static/media/main.e932f9fb90965207cf31.less",
+    "index.html": "/searchRepository/index.html",
+    "static/media/repo.less": "/searchRepository/static/media/repo.20b2684209559e5ba0ab.less",
+    "static/media/app.less": "/searchRepository/static/media/app.ce43b32bd6ef058a1252.less",
+    "static/media/index.less": "/searchRepository/static/media/index.315db222f78ff6ceab2f.less",
+    "main.22184f4d.js.map": "/searchRepository/static/js/main.22184f4d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.22184f4d.js"
+  ]
+}
